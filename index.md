@@ -13,7 +13,6 @@ An open, searchable collection of health AI talks, transcripts, educational reso
 Invited experts sharing research, practice, and perspectives on artificial intelligence in healthcare.
 
 [Explore the AI Club archive](/ai-club/)
-<!-- [Check out the AI Club talks](https://www.youtube.com/playlist?list=PLlrtwawxw7_MfCWDKWz0lTKNAkjqBoTPw) -->
 
 ### AI: A-to-Z
 
@@ -21,7 +20,7 @@ Invited experts sharing research, practice, and perspectives on artificial intel
 
 Twenty-six accessible concepts for building a shared foundation in artificial intelligence—without requiring code or mathematics.
 
-[Watch the 2026 AI: A-to-Z series](https://www.youtube.com/playlist?list=PLlrtwawxw7_MQDM-hEhH0QSQoSIu1niRf)
+[More about the AI: A-to-Z series](/ai-a-to-z/)
 
 #### 2027: The Role-Aware Practical Series
 
