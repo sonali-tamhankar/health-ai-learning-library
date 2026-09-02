@@ -30,7 +30,7 @@ A healthcare-focused series exploring what AI concepts mean for clinical, operat
 
 ### Talks & Events
 
-Presentations, panels, interviews, and events featuring Sonali Tamhankar.
+A random collection of presentations, panels, interviews, and events.
 
 [Explore Sonali's talks and events](/talks-events/)
 
