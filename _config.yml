@@ -1,0 +1,9 @@
+title: Open Health AI Learning Library
+description: An open, searchable archive of health AI talks, transcripts, educational resources, and events.
+author: Sonali Tamhankar
+theme: minima
+permalink: pretty
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
