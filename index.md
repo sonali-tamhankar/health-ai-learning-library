@@ -32,7 +32,7 @@ A healthcare-focused series exploring what AI concepts mean for clinical, operat
 
 Presentations, panels, interviews, and events featuring Sonali Tamhankar.
 
-[Explore Sonali's talks and events](https://www.youtube.com/playlist?list=PLlrtwawxw7_PrEH_PQEvwUxLv8WMoMAwy)
+[Explore Sonali's talks and events](/talks-events/)
 
 ---
 
