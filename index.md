@@ -12,13 +12,15 @@ An open, searchable collection of health AI talks, transcripts, educational reso
 
 Invited experts sharing research, practice, and perspectives on artificial intelligence in healthcare.
 
+[Check out the AI Club talks](https://www.youtube.com/playlist?list=PLlrtwawxw7_MfCWDKWz0lTKNAkjqBoTPw)
+
 ### AI: A-to-Z
 
 #### 2026: The Foundational Series
 
 Twenty-six accessible concepts for building a shared foundation in artificial intelligence—without requiring code or mathematics.
 
-[Watch the 2026 AI: A-to-Z series on YouTube](https://www.youtube.com/playlist?list=PLlrtwawxw7_MQDM-hEhH0QSQoSIu1niRf)
+[Watch the 2026 AI: A-to-Z series](https://www.youtube.com/playlist?list=PLlrtwawxw7_MQDM-hEhH0QSQoSIu1niRf)
 
 #### 2027: The Role-Aware Practical Series
 
@@ -29,6 +31,8 @@ A healthcare-focused series exploring what AI concepts mean for clinical, operat
 ### Talks & Events
 
 Presentations, panels, interviews, and events featuring Sonali Tamhankar.
+
+[Explore Sonali's talks and events](https://www.youtube.com/playlist?list=PLlrtwawxw7_PrEH_PQEvwUxLv8WMoMAwy)
 
 ---
 
