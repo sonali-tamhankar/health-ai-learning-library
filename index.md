@@ -12,7 +12,8 @@ An open, searchable collection of health AI talks, transcripts, educational reso
 
 Invited experts sharing research, practice, and perspectives on artificial intelligence in healthcare.
 
-[Check out the AI Club talks](https://www.youtube.com/playlist?list=PLlrtwawxw7_MfCWDKWz0lTKNAkjqBoTPw)
+[Explore the AI Club archive](/ai-club/)
+<!-- [Check out the AI Club talks](https://www.youtube.com/playlist?list=PLlrtwawxw7_MfCWDKWz0lTKNAkjqBoTPw) -->
 
 ### AI: A-to-Z
 
