@@ -13,3 +13,8 @@ plugins:
 
 titles_from_headings:
   enabled: false
+
+header_pages:
+  - ai-club.md
+  - ai-a-to-z.md
+  - talks-events.md
