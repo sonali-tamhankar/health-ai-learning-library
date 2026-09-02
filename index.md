@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Open Health AI Learning Library
+# Expert health AI knowledge, openly shared
 
 An open, searchable collection of health AI talks, transcripts, educational resources, and events—created and curated by Sonali Tamhankar.
 
