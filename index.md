@@ -1,5 +1,5 @@
 ---
-title: Open Health AI Learning Library
+layout: home
 ---
 
 # Open Health AI Learning Library
