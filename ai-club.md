@@ -5,7 +5,7 @@ permalink: /ai-club/
 description: Expert talks exploring artificial intelligence in healthcare, research, operations, governance, and patient care.
 ---
 
-The Fred Hutch AI Club brings together invited experts who generously share their research, practical experience, and perspectives on artificial intelligence and the future of human health.
+The Fred Hutch AI Club brings together invited experts who generously share their research, practical experience, and perspectives on artificial intelligence and the future of human health. This is not an official Fred Hutch page; all views expressed here belong to the individual expressing them.
 
 Each entry below links to a dedicated page containing the talk abstract, speaker biography, recording, and any references supplied with the video.
 
