@@ -6,6 +6,7 @@ description: Presentations, panels, interviews, invited talks, and events featur
 ---
 
 This collection brings together presentations, panels, interviews, invited talks, and events featuring Sonali Tamhankar.
+[Watch here](https://www.youtube.com/playlist?list=PLlrtwawxw7_PrEH_PQEvwUxLv8WMoMAwy)
 
 ## Talks and presentations
 
