@@ -15,6 +15,6 @@ Twenty-six concepts for building a shared foundation in artificial intelligence.
 
 ## 2027: The Role-Aware Practical Series
 
-A healthcare-focused series examining what AI concepts mean for clinical, operational, research and analytics, data and technology, and executive and governance roles.
+A healthcare-focused, scenario-based series examining what AI concepts mean for clinical, operational, research and analytics, data and technology, and executive and governance roles.
 
 **Coming January 2027.**
