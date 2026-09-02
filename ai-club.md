@@ -13,6 +13,10 @@ Each entry below links to a dedicated page containing the talk abstract, speaker
 
 ## Talk archive
 
+### [Trustworthy AI That Clinicians Will Use](/ai-club/2026-08-trustworthy-ai-that-clinicians-will-use/)
+
+**Dr. Efstathia (Effie) Andrikopoulou - University of Washington**  
+August 2026
 
 ### [Robot-Assisted Mental Wellbeing Assessment](/ai-club/2026-07-robot-assisted-mental-wellbeing-assessment/)
 
