@@ -15,6 +15,11 @@ This is not an official Fred Hutch page; all views expressed here belong to the 
 
 ## Talk archive
 
+### [Toward Virtual Patient: AI Accelerating Medical Discovery](/ai-club/2026-09-toward-virtual-patient-ai-accelerating-medical-discovery/)
+
+**Hoifung Poon, PhD - Recursion AI (previously Microsoft Research)**  
+September 2026
+
 ### [Trustworthy AI That Clinicians Will Use](/ai-club/2026-08-trustworthy-ai-that-clinicians-will-use/)
 
 **Dr. Efstathia (Effie) Andrikopoulou - University of Washington**  
