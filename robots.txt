@@ -11,4 +11,4 @@ Allow: /
 User-agent: GPTBot
 Allow: /
 
-Sitemap: https://healthai.sonalitamhankar.com/sitemap.xml
+Sitemap: https://openhealthailibrary.org/sitemap.xml
