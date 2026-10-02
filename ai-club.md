@@ -28,7 +28,7 @@ December 3, 2026
 
 ### [What Sixty Years of Health AI Teaches Us About the Agentic Moment](/ai-club/2026-10-what-sixty-years-of-health-ai-teaches-us-about-the-agentic-moment/)
 
-**Doug Fridsma, MD, PhD, FACMI — Health Universe**  
+**Doug Fridsma, MD, PhD, FACMI **  
 October 2026
 
 ### [Toward Virtual Patient: AI Accelerating Medical Discovery](/ai-club/2026-09-toward-virtual-patient-ai-accelerating-medical-discovery/)
