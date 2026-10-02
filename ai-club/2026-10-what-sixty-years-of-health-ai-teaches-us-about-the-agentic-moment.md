@@ -27,8 +27,6 @@ Douglas B. Fridsma, MD, PhD, FACMI, is Chief Medical and Science Officer at Heal
 
 A nationally recognized leader in biomedical and health informatics, Dr. Fridsma has contributed to health information exchange, interoperability standards, workforce development, and clinical informatics education. He has held academic appointments, served on industry and standards boards, and speaks widely on health information technology and innovation.
 
-[View the original Fred Hutch event page](https://www.fredhutch.org/en/events/ai-club-oct-2026.html)
-
 ## Rights and attribution
 
 This recording and accompanying text are presented for educational access with attribution to the speaker. Speaker views are their own. No open license is implied unless explicitly stated.
