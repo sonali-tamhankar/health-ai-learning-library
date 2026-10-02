@@ -12,8 +12,19 @@ Each entry below links to a dedicated page containing the talk abstract, speaker
 This is not an official Fred Hutch page; all views expressed here belong to the individual expressing them.
 
 [Watch the complete AI Club playlist on YouTube](https://www.youtube.com/playlist?list=PLlrtwawxw7_MfCWDKWz0lTKNAkjqBoTPw)
+## Upcoming
 
-## Talk archive
+### [Responsible Use of AI in Healthcare](/ai-club/2026-11-responsible-use-of-ai-in-healthcare/)
+
+**Ken Grubbs, DNP, MBA, RN — Joint Commission**  
+November 5, 2026
+
+### [600+ Laws Govern Clinical AI. Where Are the Benchmarks?](/ai-club/2026-12-600-laws-govern-clinical-ai-where-are-the-benchmarks/)
+
+**David Talby, PhD — John Snow Labs and Pacific AI**  
+December 3, 2026
+
+## Past Talks archive
 
 ### [What Sixty Years of Health AI Teaches Us About the Agentic Moment](/ai-club/2026-10-what-sixty-years-of-health-ai-teaches-us-about-the-agentic-moment/)
 
