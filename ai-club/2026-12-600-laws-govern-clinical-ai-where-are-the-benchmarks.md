@@ -9,6 +9,7 @@ description: "David Talby examines why conventional medical AI benchmarks fall s
 **Affiliation:** CEO, John Snow Labs and Pacific AI  
 **Date:** December 3, 2026
 
+[Join link on the Fred Hutch event page](https://www.fredhutch.org/en/events/ai-club-dec-2026.html)
 <!-- [Watch the recording on YouTube]() -->
 
 More than 600 laws, regulations, standards, and frameworks now apply to organizations deploying artificial intelligence. David Talby, PhD, examines whether today's medical AI benchmarks can show that clinical AI systems—and increasingly, AI agents—are safe, reliable, fair, and ready for real-world use.
@@ -30,8 +31,6 @@ David Talby is CEO of John Snow Labs and Pacific AI, where he helps organization
 He has extensive experience building and leading web-scale software platforms and teams across startups, open-source projects, Microsoft Bing in the United States and Europe, and Amazon's financial systems in Seattle and the United Kingdom.
 
 Dr. Talby holds a PhD in Computer Science as well as master's degrees in Computer Science and Business Administration. His honors include USA CTO of the Year from the Global 100 Awards in 2022, the Game Changers Awards in 2023, and the ACQ5 Global Awards in 2025.
-
-[View the original Fred Hutch event page](https://www.fredhutch.org/en/events/ai-club-dec-2026.html)
 
 ## Rights and attribution
 
