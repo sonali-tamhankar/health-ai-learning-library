@@ -9,7 +9,7 @@ description: "Doug Fridsma examines six decades of health AI and explains why co
 **Affiliation:** Chief Medical and Science Officer, Health Universe  
 **Date:** October 1, 2026
 
-<!-- [Watch the recording on YouTube]() -->
+[Watch the recording on YouTube](https://youtu.be/fUFD0EYO3eY)
 
 What can six decades of health AI teach us about today's agentic systems? Doug Fridsma, MD, PhD, FACMI, traces the field's development from ELIZA and expert systems to neural networks and large language models, connecting that history with healthcare's transition from paper records to electronic health records.
 
