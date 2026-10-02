@@ -9,15 +9,12 @@ description: "Ken Grubbs discusses Joint Commission's Responsible Use of AI in H
 **Affiliation:** Chief Nursing Executive and Executive Vice President, Accreditation and Certification Operations, Joint Commission  
 **Date:** November 5, 2026
 
-<!-- [Watch the recording on YouTube]() -->
+[Join link on the Fred Hutch event page](https://www.fredhutch.org/en/events/ai-club-nov-2026.html)
 
-How can healthcare organizations demonstrate that they are using artificial intelligence responsibly? Ken Grubbs, DNP, MBA, RN, joins the Fred Hutch AI Club for a conversation about Joint Commission's Responsible Use of AI in Healthcare certification.
 
-## About the conversation
+## Abstract
 
-This discussion examines the Responsible Use of AI in Healthcare certification and what it asks healthcare organizations to put into practice. Topics include organizational governance, data management, risk and bias reduction, ongoing monitoring, patient safety, transparency, and workforce education.
-
-The conversation also explores how certification can help organizations move from broad principles to demonstrable processes for responsible AI adoption, while accommodating different levels of organizational size, resources, and AI maturity.
+We will discuss the Joint Commission Responsible Use of AI in Healthcare (RUAIH) certification and will be honored to have Dr. Ken Grubbs, DNP, MBA, RN, Chief Nursing Executive & Executive Vice President, Accreditation and Certification Operations of Joint Commission, as our guest.
 
 ## Speaker bio
 
@@ -26,8 +23,6 @@ Dr. Ken Grubbs is Chief Nursing Executive and Executive Vice President, Accredit
 Dr. Grubbs previously served as Vice President of Regulatory and Accreditation Services for HCA Healthcare, where he supported clinical regulatory compliance and continual survey readiness across HCA facilities. His earlier roles included Director of Quality Standards, Patient Safety Specialist for Emergency Services, and Assistant Vice President of Programs at the National Patient Safety Foundation.
 
 He began his healthcare career as an emergency department nurse and has held leadership positions focused on emergency services, intensive care, quality, safety, and risk mitigation. Dr. Grubbs earned his Doctor of Nursing Practice from the University of Tennessee at Chattanooga and his Master of Business Administration from Western Kentucky University.
-
-[View the original Fred Hutch event page](https://www.fredhutch.org/en/events/ai-club-nov-2026.html)
 
 ## Rights and attribution
 
